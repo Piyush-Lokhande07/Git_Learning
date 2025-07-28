@@ -3,5 +3,5 @@ using namespace std;
 
 int main(){
 
-    cout<<"Git Feature-2 change 2 change";
+    cout<<"Master change after child2 merge";
 }
